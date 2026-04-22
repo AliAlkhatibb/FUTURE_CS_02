@@ -1,0 +1,17 @@
+From: rewards@secure-bank.com
+To: user@example.com
+Date: April 21, 2026
+Subject: 🎁 You’ve Received a Reward!
+
+Dear Customer,
+
+Congratulations! You have been selected to receive a special reward from your bank.
+
+To claim your reward, please verify your account details below:
+
+  Verify here: http://bank-reward-claim[.]com
+
+This offer expires soon.
+
+Regards,
+Rewards Team
