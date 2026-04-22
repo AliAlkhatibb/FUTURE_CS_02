@@ -1,0 +1,16 @@
+From: support@streaming-service.com 
+To: user@example.com 
+Subject: Your Subscription Has Been Cancelled 
+Date: April 21, 2026 
+
+Dear Customer,
+
+Your subscription has been cancelled due to a billing issue.
+
+To restore your access, please update your payment details using the link below:
+  http://subscription-reactivation[.]com
+
+If no action is taken, your account will remain inactive.
+
+Regards, 
+Customer Support
