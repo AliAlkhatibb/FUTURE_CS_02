@@ -1,0 +1,17 @@
+From: security-alert@secure-support.com
+To: user@example.com
+Date: April 20, 2026
+Subject: ⚠️ Unusual Login Attempt
+
+Dear User,
+
+We detected a suspicious login attempt on your account.
+
+Please verify your identity immediately to avoid account suspension.
+
+Verify here: http://secure-login-verification[.]com
+
+Failure to act within 24 hours may result in account lock.
+
+Regards,
+Security Team
