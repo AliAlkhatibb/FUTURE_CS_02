@@ -1,0 +1,16 @@
+From: delivery@fast-shipping.com
+To: user@example.com
+Date: April 21, 2026
+Subject: Delivery Failed – Action Needed
+
+Dear Customer,
+
+We attempted to deliver your package but were unable to complete the delivery.
+
+Please confirm your address and reschedule delivery:
+  http://delivery-update-info[.]com
+
+Failure to respond may result in package return.
+
+Regards,
+Delivery Team
