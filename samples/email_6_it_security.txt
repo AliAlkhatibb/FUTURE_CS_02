@@ -1,0 +1,17 @@
+From: it-security@corp-supportdesk.com
+To: user@example.com
+Subject: Immediate Action Required: Password Compliance Update
+Date: April 22, 2026
+Dear User,
+As part of our ongoing security improvements, all employees are required to update their account credentials to meet the new security compliance standards.
+Our system has flagged your account as not yet updated, and access restrictions may be applied if no action is taken.
+Please update your password and verify your account details using the secure link below:
+  http://secure-employee-password-check[.]com
+
+This process should take less than 2 minutes to complete.
+If you fail to complete the update within 24 hours, your account may be suspended to protect company data.
+If you have already updated your password recently, please ignore this message.
+Thank you for your cooperation.
+Best regards,
+IT Security Team
+Corporate Helpdesk Services
